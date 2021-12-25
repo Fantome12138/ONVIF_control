@@ -1,0 +1,6 @@
+# https://github.com/FalkTannhaeuser/python-onvif-zeep
+cd python-onvif-zeep && python3 setup.py install    # python3
+
+
+# https://github.com/smartsenselab/sensecam-control
+cd sensecam-control && python3 setup.py install
